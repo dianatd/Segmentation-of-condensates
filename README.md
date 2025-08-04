@@ -19,7 +19,7 @@ Automatically detects condensate boundaries in each two-channel `.tif` image usi
 
 ### 3. Metrics Calculation
 For each identified condensate, it calculates:
-- **Correlation coefficients** (Pearson’s) between the two channels
+- **Correlation coefficients** between the two channels
 - **Phase area** for each channel (in µm²)
 - **Fluorescence partitioning coefficients** (ρ, rho) to quantify mixing 
 
